@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# IDE0067: Objekte verwerfen, bevor Bereich verloren geht
+dotnet_diagnostic.IDE0067.severity = none

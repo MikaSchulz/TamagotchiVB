@@ -1,0 +1,56 @@
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.Dead.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.Memory.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.Settings.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.Shop.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiSimulator.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiSimulator.exe.manifest
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiSimulator.application
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiSimulator.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiSimulator.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Release\TamagotchiSimulator.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.exe.manifest
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.application
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Release\TamagotchiSimulator.pdb

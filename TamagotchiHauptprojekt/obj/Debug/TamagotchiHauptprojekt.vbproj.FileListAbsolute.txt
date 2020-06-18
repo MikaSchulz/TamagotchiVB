@@ -1,0 +1,590 @@
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamagotchi\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CoreCompileInputs.cache
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt1\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\moser\Desktop\Informatik\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CoreCompileInputs.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\test\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CoreCompileInputs.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 28.10.2019 21 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 04.11.2019 9 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CoreCompileInputs.cache
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+T:\Datenspeichersatz von Luis\Informatik\Informatik Projekt\TamagotchiHauptprojekt 06.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 19 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 11.11.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 12.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\TamagotchiHauptprojekt 14.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 27.11.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CoreCompileInputs.cache
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 28.11.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 03.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 04.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Angy\Desktop\Mika\Informatik\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 13 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.dll
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.dll
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.dll
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.dll
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 05.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 07.12.2019 01 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CoreCompileInputs.cache
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+H:\Desktop\Informatik\Tamagotchi\Codes\TamagotchiHauptprojekt 08.12.2019 22 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 08.12.2019 22 Uhr Mika\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 09.12.2019 23 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 11.12.2019 20 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Memory.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Memory.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Shop.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 1 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ShopCopy.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Memory.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Shop.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 14 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.Settings.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe.config
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe.manifest
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.application
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.pdb
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseBackground.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseName.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Dead.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.LeftRight.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Memory.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Resources.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Settings.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Shop.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.SlotMachine.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.exe.manifest
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.application
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.exe
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.xml
+C:\Users\Mika\Desktop\Tamgotchi Hauptprojekt\TamagotchiHauptprojekt 18.12.2019 18 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe.config
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe.manifest
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.application
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.pdb
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseBackground.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseCharacter.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseName.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Dead.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.LeftRight.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Memory.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Resources.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Settings.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Shop.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.SlotMachine.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.TamagotchiScreen.resources
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.exe.manifest
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.application
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.exe
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.xml
+C:\Users\Angy\Desktop\Mika\Informatik\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.pdb
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe.config
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe.manifest
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.application
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.exe
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.pdb
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\TamagotchiSimulator.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Antlr3.Runtime.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\FluentNHibernate.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Iesi.Collections.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\NHibernate.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbprojAssemblyReference.cache
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseBackground.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseCharacter.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.ChooseName.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Dead.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.LeftRight.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Memory.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Resources.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Settings.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.Shop.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.SlotMachine.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.TamagotchiScreen.resources
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.GenerateResource.cache
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.exe.manifest
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.application
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CopyComplete
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.exe
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.xml
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiSimulator.pdb
+C:\Users\Mika\Desktop\Alles Tamagotchi Kram\Current\TamagotchiHauptprojekt 19.12.2019 2 Uhr\TamagotchiHauptprojekt\TamagotchiHauptprojekt\obj\Debug\TamagotchiHauptprojekt.vbproj.CoreCompileInputs.cache

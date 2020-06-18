@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F0244C0-227E-4871-B89E-31B404D97AEA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TamagotchiSimulator.My.MyApplication</StartupObject>
+    <RootNamespace>TamagotchiSimulator</RootNamespace>
+    <AssemblyName>TamagotchiSimulator</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Mika\Desktop\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>false</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TamagotchiSimulator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TamagotchiSimulator.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\TamagotchiIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>82DD32E56851B310642A1C9FD9D9884B05E612A5</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>TamagotchiHauptprojekt_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.5.0.2, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr3.Runtime.3.5.1\lib\net40-client\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate, Version=2.1.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FluentNHibernate.2.1.2\lib\net461\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Iesi.Collections, Version=4.0.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Iesi.Collections.4.0.4\lib\net461\Iesi.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=5.1.0.0, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <HintPath>..\packages\NHibernate.5.1.1\lib\net461\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq, Version=2.1.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.2.1.2\lib\net45\Remotion.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="Remotion.Linq.EagerFetching, Version=2.1.0.0, Culture=neutral, PublicKeyToken=fee00910d6e5f53b, processorArchitecture=MSIL">
+      <HintPath>..\packages\Remotion.Linq.EagerFetching.2.1.0\lib\net45\Remotion.Linq.EagerFetching.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="ChooseBackground.Designer.vb">
+      <DependentUpon>ChooseBackground.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseBackground.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseCharacter.Designer.vb">
+      <DependentUpon>ChooseCharacter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseCharacter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseName.Designer.vb">
+      <DependentUpon>ChooseName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ColorBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dead.Designer.vb">
+      <DependentUpon>Dead.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dead.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FileManager.vb" />
+    <Compile Include="Food.vb" />
+    <Compile Include="Hydration.vb" />
+    <Compile Include="LeftRight.Designer.vb">
+      <DependentUpon>LeftRight.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LeftRight.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Memory.Designer.vb">
+      <DependentUpon>Memory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Memory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemoryCard.vb" />
+    <Compile Include="Minigames.Designer.vb">
+      <DependentUpon>Minigames.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Minigames.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Objects.vb" />
+    <Compile Include="PictureBoxTransparent.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Selector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Settings.Designer.vb">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Shop.Designer.vb">
+      <DependentUpon>Shop.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Shop.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Slotmachine.Designer.vb">
+      <DependentUpon>Slotmachine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Slotmachine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tamagotchi.vb" />
+    <Compile Include="TamagotchiCalculator.vb" />
+    <Compile Include="TamagotchiManager.vb" />
+    <Compile Include="TamagotchiScreen.Designer.vb">
+      <DependentUpon>TamagotchiScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TamagotchiScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ChooseBackground.resx">
+      <DependentUpon>ChooseBackground.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseCharacter.resx">
+      <DependentUpon>ChooseCharacter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseName.resx">
+      <DependentUpon>ChooseName.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dead.resx">
+      <DependentUpon>Dead.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LeftRight.resx">
+      <DependentUpon>LeftRight.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Memory.resx">
+      <DependentUpon>Memory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Settings.resx">
+      <DependentUpon>Settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Shop.resx">
+      <DependentUpon>Shop.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Slotmachine.resx">
+      <DependentUpon>Slotmachine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TamagotchiScreen.resx">
+      <DependentUpon>TamagotchiScreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 und x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CatFront.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CatHappy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CatLookLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CatLookRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CatMad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CatSad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CatTired.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DogFront.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DogHappy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DogLookLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DogLookRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DogMad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DogSad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DogTired.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OXFront.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OXHappy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OXLookLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OXLookRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OXMad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OXSad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OXTired.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DRECKIG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\energy drink.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GREAT JOB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HAPPY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lasagna.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOL.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOVE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\milk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SLEEPY.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\THE REAL SAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\water bottle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\water bottle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bread.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\energy drink.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lasagna.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\milk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slotmachinepicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\memorypicture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\memory.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slotmachine.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftright.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\streicheln.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gaming.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Grabstein.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TamagotchiIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
