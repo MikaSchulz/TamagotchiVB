@@ -1,5 +1,9 @@
 # TamagotchiVB
 A tamagotchi simulation project in VB.
+Language: German
+
+## How to play
+Use the arrow keys
 
 ## Download
 You can download the latest version [here](https://workupload.com/file/R5QDv974kKR)
