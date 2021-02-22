@@ -1,4 +1,4 @@
-# TamaVB
+# TamagotchiVB
 A digital pet simulation project in VB.
 This project is no longer in development.
 Language: German
@@ -12,7 +12,7 @@ You can download the latest version [here](https://github.com/MikaSchulz/Tamagot
 ## Clone Project
 
 ```
-git clone https://github.com/MikaSchulz/TamaVB
+git clone https://github.com/MikaSchulz/TamagotchiVB
 ```
 
 ## Contact
