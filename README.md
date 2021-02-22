@@ -1,18 +1,19 @@
-# TamagotchiVB
-A tamagotchi simulation project in VB.
+# TamaVB
+A digital pet simulation project in VB.
+This project is no longer in development.
 Language: German
 
 ## How to play
 Use the arrow keys
 
 ## Download
-You can download the latest version [here](https://workupload.com/file/R5QDv974kKR)
+You can download the latest version [here](https://github.com/MikaSchulz/TamagotchiVB/releases/tag/v1.0.0)
 
 ## Clone Project
 
 ```
-git clone https://github.com/MikaSchulz/TamagotchiVB
+git clone https://github.com/MikaSchulz/TamaVB
 ```
 
-## Support
-Join my discord [here](http://discord.gg/3eFzmJs) or write an email to [mika.schulz@yahoo.de](mailto:mika.schulz@yahoo.de)
+## Contact
+You can contact me at [eyetealer@gmail.com](mailto:eyetealer@gmail.com).
